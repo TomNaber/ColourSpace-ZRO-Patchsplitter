@@ -1,5 +1,5 @@
 # ColourSpace ZRO Patchsplitter
-ColourSpace ZRO Patchsplitter is a lightweight, standalone tool designed for simplifying the process of using patchlists made for ColourSpace within ColourSpace ZRO. It splits large patchlists into smaller files of 256 patches, ensuring compatibility with the ColourSpace ZRO license, which supports a maximum of 256 patches per file.
+ColourSpace ZRO Patchsplitter is a lightweight, standalone tool designed for simplifying the process of importing patchlists made for ColourSpace ti ColourSpace ZRO. It splits large patchlists into smaller files of 256 patches, ensuring compatibility with the ColourSpace ZRO license, which supports a maximum of 256 patches per file.
 
 ## Features
 - Standalone portable application (no installation required).
