@@ -14,4 +14,4 @@ ColourSpace ZRO Patchsplitter is a lightweight, standalone tool designed for sim
 3. The tool automatically processes all patchlists larger than 256 patches, creating new .csv files as needed.
 
 ## Download
-You can download the latest release from the Releases section.
+You can download the latest release from the [Releases](https://github.com/TomNaber/ColourSpace-ZRO-Patchsplitter/releases) section.
